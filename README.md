@@ -11,7 +11,7 @@ A full-stack web application built using **React**, **Spring Boot**, and **Mongo
 | **Frontend** | React.js, Axios, Bootstrap, Material UI, React Router, Font Awesome       |
 | **Backend**  | Java, Spring Boot (REST API), Spring Data MongoDB                         |
 | **Database** | MongoDB Atlas (Cloud-based NoSQL)                                         |
-| **Tools**    | IntelliJ IDEA, MongoDB Compass, Postman, VS Code, Git                     |
+| **Tools**    | MongoDB Compass, Postman, VS Code, Git                     |
 
 ---
 
